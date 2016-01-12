@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+seaborn
+-e git+https://github.com/pymc-devs/pymc3.git#egg=Package
+jupyter
+ipython
