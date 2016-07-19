@@ -1,7 +1,3 @@
-numpy
-pandas
-matplotlib
+-e git+https://github.com/pymc-devs/pymc3.git#egg=pymc3
 seaborn
--e git+https://github.com/pymc-devs/pymc3.git#egg=Package
-jupyter
-ipython
+xlrd
